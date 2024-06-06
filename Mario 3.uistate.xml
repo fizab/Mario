@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout active="1" order="1">World 1-1</layout>
+    </open-tabs>
+    <properties>
+        <property expanded="0" name="Window Size" />
+    </properties>
+    <families-expanded root="1">
+        <family expanded="0" name="VaiVolta" />
+        <family expanded="0" name="BasePlatforms" />
+        <family expanded="0" name="SpritePlatforms" />
+        <family expanded="0" name="Hurt" />
+        <family expanded="0" name="MarioStates" />
+        <family expanded="0" name="Stompable" />
+        <family expanded="0" name="Turtle" />
+        <family expanded="0" name="CanDie" />
+        <family expanded="0" name="BaseWalls" />
+        <family expanded="0" name="SpriteWalls" />
+        <family expanded="0" name="Item" />
+    </families-expanded>
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="0" path="object-folder/NPC/" />
+        <folder expanded="0" path="object-folder/HUD/" />
+        <folder expanded="0" path="object-folder/Mario/" />
+        <folder expanded="1" path="object-folder/Platforms/" />
+        <folder expanded="0" path="object-folder/References/" />
+        <folder expanded="0" path="object-folder/Items/" />
+        <folder expanded="0" path="object-folder/Scenery/" />
+        <folder expanded="0" path="object-folder/Helpers/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="0" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/Goomba/" />
+        <folder expanded="1" path="animation-folder/NPC_FlyingGoomba/" />
+        <folder expanded="1" path="animation-folder/TurtleGreen/" />
+        <folder expanded="1" path="animation-folder/TurtleRed/" />
+        <folder expanded="1" path="animation-folder/Flor/" />
+        <folder expanded="1" path="animation-folder/StatusBar/" />
+        <folder expanded="1" path="animation-folder/RunningIndicator/" />
+        <folder expanded="1" path="animation-folder/Mario/" />
+        <folder expanded="1" path="animation-folder/MarioFeather/" />
+        <folder expanded="1" path="animation-folder/MarioPequeno/" />
+        <folder expanded="1" path="animation-folder/MarioGrande/" />
+        <folder expanded="1" path="animation-folder/Núvem/" />
+        <folder expanded="1" path="animation-folder/Tijolo/" />
+        <folder expanded="1" path="animation-folder/World_1_2_p2/" />
+        <folder expanded="1" path="animation-folder/World_1_2_p1/" />
+        <folder expanded="1" path="animation-folder/World_1_2_p3/" />
+        <folder expanded="1" path="animation-folder/SongBlock/" />
+        <folder expanded="1" path="animation-folder/VerticalPlatform/" />
+        <folder expanded="1" path="animation-folder/BrickBlock/" />
+        <folder expanded="1" path="animation-folder/Level1/" />
+        <folder expanded="1" path="animation-folder/Level2/" />
+        <folder expanded="1" path="animation-folder/Level1a/" />
+        <folder expanded="1" path="animation-folder/Level2a/" />
+        <folder expanded="1" path="animation-folder/cogumelo/" />
+        <folder expanded="1" path="animation-folder/Pena/" />
+        <folder expanded="1" path="animation-folder/Moeda/" />
+        <folder expanded="1" path="animation-folder/cubo/" />
+        <folder expanded="1" path="animation-folder/CuboItem/" />
+        <folder expanded="1" path="animation-folder/P/" />
+        <folder expanded="1" path="animation-folder/Sprite2/" />
+        <folder expanded="1" path="animation-folder/EndOfLevel/" />
+        <folder expanded="1" path="animation-folder/MarioScrollTarget/" />
+        <folder expanded="1" path="animation-folder/volta/" />
+        <folder expanded="1" path="animation-folder/GoombaSpawner/" />
+        <folder expanded="1" path="animation-folder/VerticalPlatformSpawner/" />
+        <folder expanded="1" path="animation-folder/Sprite/" />
+    </folders-expanded>
+</c2uistate>
